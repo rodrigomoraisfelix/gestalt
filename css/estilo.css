@@ -1,0 +1,43 @@
+/* CSS PARA NAV  */
+nav{
+    font-family: 'Oswald', sans-serif;
+}
+.navbar-brand{
+    font-size: 25px;
+}
+.navbar-collapse{
+    margin-right: 70px;
+}
+
+
+/* CSS PARA O CORPO DA PAGINA  */
+
+.gestalt{
+    font-family: 'Train One', cursive;
+    font-size: 150px;
+
+}
+h2{
+    font-size: 50px;
+    font-family: 'Anton', sans-serif;
+}
+ol li{
+    margin-top: 5px;
+
+}
+
+/* css seta home  */
+.seta-home{
+    background-color: rgba(0, 0, 0, 0.6);
+    border-radius: 10px;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 15px;
+    padding-left: 15px;
+    position: fixed;
+    bottom: 1%;
+    right: 1%;
+    cursor: pointer;
+    display: none;
+}
