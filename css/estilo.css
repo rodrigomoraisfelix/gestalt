@@ -25,6 +25,18 @@ ol li{
     margin-top: 5px;
 
 }
+.footer{
+    background-color: rgb(202, 202, 202);
+    padding-top: 3px;
+    width: 100%;
+}
+.footer a{
+    color: black;
+}
+.footer a:hover{
+    color: blue;
+    text-decoration: none;
+}
 
 /* css seta home  */
 .seta-home{
